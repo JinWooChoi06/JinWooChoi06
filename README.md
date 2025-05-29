@@ -1,10 +1,9 @@
 ## Hi there 👋
-I do things sometimes
-- 🔭 I’m currently working on leetcode problems
-- 🌱 I’m currently learning Python at UC Irvine
-- 💬 Ask me about video games or math
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I stuck my head in a toilet in 8th grade
+- I’m currently working on leetcode problems and class projects
+- I’m currently studying computer science at UC Irvine
+- Feel free to talk to me about video games or math
+- Pronouns: he/him
+
 <!--
 **JinWooChoi06/JinWooChoi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
