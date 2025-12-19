@@ -1,14 +1,24 @@
-## Hi there 👋
-- I’m currently working on leetcode problems and class projects
-- I’m currently studying computer science at UC Irvine
-- Feel free to talk to me about video games or math
-- Pronouns: he/him
+## Hey there 👋
+I'm Jin Woo Choi, a computer science major at UC Irvine
 
-<!--
-**JinWooChoi06/JinWooChoi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning about Data Structures in C++
 
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
--->
+Completed Coursework:
+
+  Python (fundamentals, libraries, intermediate problem solving)
+
+  C++ (classes, inheritance, pointers, memory management)
+
+I also like to self study other coding languages that interest me.
+
+On this profile I'll be uploading some personal projects, expereiements and things I'm currently working on.
+
+## Tools & Tech
+- Python, C++, Java
+- HTML, CSS, Javascript
+- Adobe Suite
+
+## A bit about Me
+- 🐈 I like cats
+- ☕ A coffee person
+- 🎮 Into video games — Mainly osu! right now
