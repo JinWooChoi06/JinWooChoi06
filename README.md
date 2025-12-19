@@ -19,4 +19,4 @@ On this profile I'll be uploading some personal projects, expereiements and thin
 ## A bit about Me
 - 🐈 I like cats
 - ☕ A coffee person
-- 🎮 Into video games — Mainly osu! right now
+- 🎮 Into video games — Mainly osu! recently
