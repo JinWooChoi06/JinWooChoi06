@@ -4,10 +4,8 @@ I'm Jin Woo Choi, a computer science major at UC Irvine
 I'm currently learning about Data Structures in C++
 
 Completed Coursework:
-
-  Python (fundamentals, libraries, intermediate problem solving)
-
-  C++ (classes, inheritance, pointers, memory management)
+- Python (fundamentals, libraries, intermediate problem solving)
+- C++ (classes, inheritance, pointers, memory management)
 
 I also like to self study other coding languages that interest me.
 
