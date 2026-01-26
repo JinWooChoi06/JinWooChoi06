@@ -14,6 +14,7 @@ On this profile I'll be uploading some personal projects, expereiements and thin
 ## Tools & Tech
 - Python, C++, Java
 - HTML, CSS, Javascript
+- VSCode, PyCharm
 - Adobe Suite
 
 ## A bit about Me
