@@ -6,6 +6,7 @@ I'm currently learning about Data Structures in C++
 Completed Coursework:
 - Python (fundamentals, libraries, intermediate problem solving)
 - C++ (classes, inheritance, pointers, memory management)
+- Data Structures and Algorithms
 
 I also like to self study other coding languages that interest me.
 
